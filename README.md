@@ -58,13 +58,15 @@ Be sure to identify the following in your dataset:
 - What variable(s) are considered to be the features for your model?
 - What variable(s) are neither and should be removed from the input data?
 
+**Preprocess the data**
 Using the methods described in this module, preprocess all numerical and categorical variables, as needed:
 - Combine rare categorical values via bucketing.
 - Encode categorical variables using one-hot encoding.
 - Standardize numerical variables using Scikit-Learn’s StandardScaler class.
 
+**Neural Network design**
 Using a TensorFlow neural network design of your choice, create a binary classification model that can predict if an Alphabet Soup funded organization will be successful based on the features in the dataset.
-- You may choose to use a neural network or deep learning model.
+- You may choose to use a **neural network** or **deep learning** model.
 
 **HINT:**
 Think about how many inputs there are before determining the number of neurons and layers in your model.
