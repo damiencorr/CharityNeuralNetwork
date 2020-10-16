@@ -2,7 +2,7 @@
 
 ### CHALLENGE
 
-this challenge set out to answer the following questions, see the APPENDIX for details of the challenge.
+This challenge set out to answer the following questions, see the APPENDIX for details of the challenge.
 
 How many neurons and layers did you select for your neural network model? Why?
 - Initialy choose 62 neurons in one hidden layer, where 62 was twice the number of input neurons as per recommended best practice.
