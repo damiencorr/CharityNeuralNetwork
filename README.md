@@ -18,7 +18,7 @@ Were you able to achieve the target model performance? What steps did you take t
   
 If you were to implement a different model to solve this classification problem, which would you choose? Why?
 - I would recomend trying SVMs next, which can build adequate models with linear or nonlinear data. Due to SVMs’ ability to create multidimensional borders, SVMs lose their interpretability and behave more like the black box machine learning models, such as basic neural networks and deep learning models. SVMs perform one task and one task very well — they classify and create regression using two groups.
-
+- After SVM then try a Random forest model, due to its robustness and scalability. Both output and feature selection of random forest models are easy to interpret, and they can easily handle outliers and nonlinear data.
 -
 -
 -
